@@ -37,5 +37,4 @@ Priyanka Das Poddar
 UI/UX | Blockchain Enthusiast
 Email: priyanka.22bce7965@vitapstudent.ac.in
 
-![alt text](<blockchain ehr.png>)"# MedVault" 
-"# MedVault" 
+![alt text](<blockchain ehr.png>)"MedVault" 
