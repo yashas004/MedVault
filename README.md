@@ -6,25 +6,25 @@ MedVault is a decentralized application designed to revolutionize the way medica
 
 ## Features
 
-Blockchain-based Security: Ensures the immutability and security of all medical records.
+- Blockchain-based Security: Ensures the immutability and security of all medical records.
 
-Patient-Controlled Access: Patients decide who can access their medical data.
+- Patient-Controlled Access: Patients decide who can access their medical data.
 
-Efficient Sharing: Healthcare providers can securely access authorized records, ensuring trust and transparency.
+- Efficient Sharing: Healthcare providers can securely access authorized records, ensuring trust and transparency.
 
-Encrypted Storage: All data is securely encrypted, protecting it from unauthorized access.
+- Encrypted Storage: All data is securely encrypted, protecting it from unauthorized access.
 
-Scalable and Decentralized: Built on a decentralized ledger to ensure data integrity and eliminate a single point of failure.
+- Scalable and Decentralized: Built on a decentralized ledger to ensure data integrity and eliminate a single point of failure.
 
 ## Usage
 
-Patients can sign up and store their medical data securely.
+- Patients can sign up and store their medical data securely.
 
-Patients can manage access rights, granting permission to specific healthcare providers.
+- Patients can manage access rights, granting permission to specific healthcare providers.
 
-Healthcare providers can view patient records only with authorization, ensuring privacy.
+- Healthcare providers can view patient records only with authorization, ensuring privacy.
 
-All data modifications are tracked on the blockchain, providing transparency and trust.
+- All data modifications are tracked on the blockchain, providing transparency and trust.
 
 ## Authors
 
