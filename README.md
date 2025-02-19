@@ -34,7 +34,6 @@ MedVault is a decentralized application designed to revolutionize the way medica
 Yashas Yadav
 Frontend Developer | Blockchain Enthusiast
 Email: yashasyadav04@gmail.com
-GitHub: yashas004
 
 Priyanka Das Poddar
 UI/UX | Blockchain Enthusiast
