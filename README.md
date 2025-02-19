@@ -26,6 +26,9 @@ MedVault is a decentralized application designed to revolutionize the way medica
 
 - All data modifications are tracked on the blockchain, providing transparency and trust.
 
+![HORIZON blockchain ehr](https://github.com/user-attachments/assets/e66dfca4-958e-4ebc-9ac4-a64c9e9f8b5e)
+
+
 ## Authors
 
 Yashas Yadav
@@ -36,6 +39,3 @@ GitHub: yashas004
 Priyanka Das Poddar
 UI/UX | Blockchain Enthusiast
 Email: priyanka.22bce7965@vitapstudent.ac.in
-
-![alt text](<blockchain ehr.png>)"# MedVault" 
-"# MedVault" 
